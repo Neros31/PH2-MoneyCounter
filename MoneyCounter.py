@@ -22,7 +22,7 @@ Stealables = {
 "Cash Register" : 5000
 }
 for Item in Stealables:
-   amount = map.count(Item)
+   amount = map.count(Item+"@")
    print(f"\t+ {Item} ({Stealables[Item]}$) x {amount} = {amount * Stealables[Item]}$ ")
    allmoney += amount * Stealables[Item]
  
