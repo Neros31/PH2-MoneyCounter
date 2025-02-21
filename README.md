@@ -1,4 +1,4 @@
-## PH2-MoneyCounter: A Tool to count all Heading the available money on a Perfect Heist 2 Map
+## PH2-MoneyCounter: A Tool to count all the available money on a Perfect Heist 2 Map
 
 How to use:
 
